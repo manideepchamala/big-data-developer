@@ -18,7 +18,9 @@
 - I have started gaining knowledge in Sales Force which is my recent interest.
 - I am planning to start a Cricket academy in future which is my dream from Teenage.
 
+![Northwest Crciket](https://github.com/manideepchamala/big-data-developer/blob/master/WhatsApp%20Image%202020-04-19%20at%201.14.09%20PM.jpeg)
+
 
 ## Links: 
 
--  LinkedIn profile: 
+-  LinkedIn profile: https://www.linkedin.com/in/chamala-manideep-7a7425177/
