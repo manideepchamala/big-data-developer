@@ -24,3 +24,8 @@
 ## Links: 
 
 -  LinkedIn profile: https://www.linkedin.com/in/chamala-manideep-7a7425177/
+
+## My Photo
+
+![My Photo](https://github.com/manideepchamala/big-data-developer/blob/master/WhatsApp%20Image%202020-01-20%20at%208.08.20%20PM.jpeg)
+
