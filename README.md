@@ -20,6 +20,9 @@
 
 ![Northwest Crciket](https://github.com/manideepchamala/big-data-developer/blob/master/WhatsApp%20Image%202020-04-19%20at%201.14.09%20PM.jpeg)
 
+## Skills:
+ - I have learned Shell-data-processing concept and also created a repo for that.
+ - Shell data processing Repo link - [Repo Link](https://github.com/manideepchamala/shell-data-processing-)
 
 ## Links: 
 
